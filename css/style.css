@@ -24,13 +24,13 @@ img {
   border-color: #fff;
 }
 
-.container-fluid {
+/* .container-fluid {
   background-color: yellow;
 }
 
 .container {
   background-color: red;
-}
+} */
 /* regole corpo pagina */
 
 
@@ -39,6 +39,36 @@ img {
   padding: 0 10%;
 }
 
+/* NAVBAR */
+
+.helper {
+
+}
+
+header .navbar {
+  margin-bottom: 0;
+}
+
+
+
+.navbar-brand {
+
+}
+
+#logonav {
+
+  max-height: 200%;
+}
+
+#navbar-nav-center {
+  margin-left: 15%;
+}
+
+
 /* JUMBOTRON */
+header {
+  background-image: url(../img/bg-home-hero-3.svg);
+}
+
 
 /* form nel jumbotron */
