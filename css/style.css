@@ -246,11 +246,11 @@ header {
 
 
 
-
 /* footer */
 footer {
   background-color: #031C4E;
-
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .footer-icons ul {
@@ -282,6 +282,9 @@ footer {
   list
 }
 
+footer i {
+  padding-right: 10px;
+}
 
 .footer-list ul {
   list-style-type: none;
@@ -293,7 +296,7 @@ footer {
 .footer-list li a {
   display: block;
   color: grey;
-  /* padding: 8px 16px; */
+
   text-decoration: none;
 }
 
