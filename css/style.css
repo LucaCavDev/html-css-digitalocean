@@ -104,3 +104,62 @@ header {
 .carousel-control {
 
 }
+
+
+
+
+/* footer */
+.footer-icons {
+
+}
+
+.footer-icons ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.footer-icons li {
+  float: left;
+}
+
+.footer-icons li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  /* padding: 14px 16px; */
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.footer-icons li a:hover {
+  background-color: #111;
+}
+
+.footer-list {
+  list
+}
+
+
+.footer-list ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* width: 200px; */
+
+}
+
+.footer-list li a {
+  display: block;
+  color: grey;
+  /* padding: 8px 16px; */
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+.footer-list li a:hover {
+  background-color: #555;
+  color: white;
+}
