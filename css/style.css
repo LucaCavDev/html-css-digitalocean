@@ -200,6 +200,10 @@ header {
    border-bottom: none !important;
  }
 
+ .lines5 {
+   line-height: 2;
+ }
+
  /* section6 */
  .section6 {
    padding-top: 5%;
