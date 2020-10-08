@@ -54,6 +54,18 @@ nav img {
 .helper {
 
 }
+.navbar {
+  border-radius: 0px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #051E4F;
+}
+
+.navbar-inverse {
+  border: none;
+  background-color: white;
+}
 
 header .navbar {
   margin-bottom: 0;
@@ -61,6 +73,10 @@ header .navbar {
 
 .navbar-brand {
 
+}
+
+.navbar-nav {
+  margin-left: 50px;
 }
 
 
@@ -82,10 +98,16 @@ header {
   background-color: white;
 }
 
+
+.jumbo form img {
+  height: 14px;
+}
 /* section1 */
 .section1 {
   background-color: #F3F5F9;
 }
+
+
 
 /* section2 */
 
@@ -132,6 +154,7 @@ header {
 .section7 {
   background-color: #0032AE;
   min-height: 100px;
+  text-align: center;
 }
 
 
